@@ -1,3 +1,4 @@
 cone man
 
-i make baldi mods and games in unity
+i make games in unity, mostly vr games
+decent at c#
